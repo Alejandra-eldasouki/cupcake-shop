@@ -1,0 +1,26 @@
+header {
+  background-color: #f7f7f7;
+  padding: 25px;
+  text-align: center;
+}
+
+nav {
+  background-color: #e84d8f;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+#best {
+  color: #e0bbe4;
+  font-style: helvetica;
+  font-weight: bold;
+}
